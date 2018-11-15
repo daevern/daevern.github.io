@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
+img{
+	width: 50mm;
+	height: 50mm;
+	border-radius: 90px;
+}
+.Daevern{
+	width: 30mm;
+	height: 30mm; 
+	position: relative;
+	left: 45%;
+	float: center;
+}
+#S&H{
+	text-align: center;
+}
+.Intro{
+	text-align: left;
+}
+p{
+    text-align: left;
+}
+footer{
+	text-align: left;
+}
+br{
+	text-align: center;
+}
